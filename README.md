@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi+Broo!+👋;+I'm+Mokhammad+Ilham+Putra+Wijaya!;" />
 </h1>
 <p align = "center">
-    <img src="https://tenor.com/bFctY.gif" alt="P"/>
+    <img src="https://github.com/user-attachments/assets/e6924e01-b5ab-4f39-b0d3-b44a25ec1295"/>
 </p>
 
 <br/>
