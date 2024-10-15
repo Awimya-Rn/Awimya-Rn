@@ -1,7 +1,7 @@
 <h1 align="center">Hey Broo👋</h1>
 
 <p align = "center">
-  <img src="https://media.tenor.com/A18Em1XffR4AAAAM/bocchi-the-rock-anime.gif" alt="lofi">
+  <img src="https://giphy.com/embed/J6UJjUEg1ReqjMIAlQ" alt="lofi">
 </p>
 
 <!--
