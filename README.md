@@ -1,6 +1,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi+Broo!+👋;+I'm+Mokhammad+Ilham+Putra+Wijaya!;" />
 </h1>
+<p align = "center">
+    <img src="https://tenor.com/bFctY.gif" alt="P"/>
+</p>
 
 <br/>
 
