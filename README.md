@@ -11,7 +11,7 @@ Aspiring Software Developer with a passion for creating innovative solutions. Ea
 
 <hr/>
 
-## ⚒️ Languages-Frameworks-Tools ⚒️
+# ⚒️ Languages-Frameworks-Tools
 
 <div>
     <img src="https://skillicons.dev/icons?i=html,css,vscode,git,bootstrap" width = 250 />
@@ -25,7 +25,7 @@ Aspiring Software Developer with a passion for creating innovative solutions. Ea
 
 <hr/>
 
-## Interests and Goals 🎯
+# Interests and Goals 🎯
 
 <p>- To build a strong foundation in computer science fundamentals.<p/>
 <p>- To learn new programming languages and technologies.<p/>
@@ -33,7 +33,7 @@ Aspiring Software Developer with a passion for creating innovative solutions. Ea
 
 <hr/>
 
-## About
+# About
 
 - [Linkedin](https://www.linkedin.com/in/mokhammad-ilham-putra-wijaya-825201288/)
 - [Instagram](https://www.instagram.com/hamm._ez/)
