@@ -20,7 +20,7 @@ Aspiring Software Developer with a passion for creating innovative solutions. Ea
 ### Progrest
 
 <div>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,cpp,java,nextjs,mysql,github,astro" width = 250 />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,cpp,java,nextjs,mysql,github,astro,postman" width = 250 />
 </div>
 
 <hr/>
