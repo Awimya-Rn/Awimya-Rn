@@ -6,7 +6,9 @@
 </p>
 
 <br/>
-
+</div>
+  <img src="https://komarev.com/ghpvc/?username=Mokhamm-Ilham&style=flat-square&color=blue" alt=""/>
+</div>
 Aspiring Software Developer with a passion for creating innovative solutions. Eager to apply my skills in a challenging and dynamic environment. Currently honing my abilities through personal projects and online courses.
 
 <hr/>
