@@ -29,6 +29,14 @@ Aspiring Software Developer with a passion for creating innovative solutions. Ea
 
 # Interests and Goals 🎯
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Mokhamm-Ilham&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Mokhamm-Ilham?pet-id=736823780864484213"
+    width="600"
+    height="120"
+  />
+</a>
+
 <p>- To build a strong foundation in computer science fundamentals.<p/>
 <p>- To learn new programming languages and technologies.<p/>
 <p>- To build a career in data science and machine learning.<p/>
