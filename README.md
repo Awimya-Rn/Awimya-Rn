@@ -33,7 +33,7 @@ Aspiring Software Developer with a passion for creating innovative solutions. Ea
   <img
     src="https://render.gitanimals.org/lines/Mokhamm-Ilham?pet-id=736823780864484213"
     width="600"
-    height="120"
+    height="150"
   />
 </a>
 
