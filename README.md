@@ -30,7 +30,7 @@ Aspiring Software Developer with a passion for creating innovative solutions. Ea
 # Interests and Goals 🎯
 
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Mokhamm-Ilham&utm_content=line">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Awimya-Rn&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/Mokhamm-Ilham?pet-id=736823460251891632"
     width="600"
@@ -53,9 +53,9 @@ Aspiring Software Developer with a passion for creating innovative solutions. Ea
 <hr/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mokhamm-Ilham&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mokhamm-Ilham&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mokhamm-Ilham&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Awimya-Rn&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Awimya-Rn&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Awimya-Rn&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Awimya-Rn&icon=0&color=0)](https://visitcount.itsvg.in)
