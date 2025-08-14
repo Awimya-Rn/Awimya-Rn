@@ -28,8 +28,25 @@ Aspiring Software Developer with a passion for creating innovative solutions. Ea
 <hr/>
 
 # Interests and Goals 🎯
+```js
+class Interests{
+    constructor(name){
+        this.name=name
+    }
+    goals = () => {
+        console.log(`My ${this.name} Goals`)
+        console.log("- To build a strong foundation in computer science fundamentals.")
+        console.log("- To learn new programming languages and technologies.")
+        console.log("- To build a career in data science and machine learning.")
+    }
+}
+const Hm = new Interests("Hm")
+Hm.goals()
+```
 
+<hr/>
 
+# About
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Awimya-Rn&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/Mokhamm-Ilham?pet-id=736823460251891632"
@@ -37,15 +54,6 @@ Aspiring Software Developer with a passion for creating innovative solutions. Ea
     height="120"
   />
 </a>
-  
-
-<p>- To build a strong foundation in computer science fundamentals.<p/>
-<p>- To learn new programming languages and technologies.<p/>
-<p>- To build a career in data science and machine learning.<p/>
-
-<hr/>
-
-# About
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mokhammad-ilham-putra-wijaya-825201288/)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hamm._ez/)
