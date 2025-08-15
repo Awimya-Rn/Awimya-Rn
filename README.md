@@ -46,7 +46,11 @@ Hm.goals()
 
 <hr/>
 
-# About
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Awimya-Rn&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Awimya-Rn&theme=nightowl&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Awimya-Rn&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Awimya-Rn&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/Mokhamm-Ilham?pet-id=736823460251891632"
@@ -55,15 +59,6 @@ Hm.goals()
   />
 </a>
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mokhammad-ilham-putra-wijaya-825201288/)
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hamm._ez/)
-
-<hr/>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Awimya-Rn&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Awimya-Rn&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Awimya-Rn&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Awimya-Rn&icon=0&color=0)](https://visitcount.itsvg.in)
