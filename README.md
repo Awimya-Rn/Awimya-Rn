@@ -47,9 +47,9 @@ Hm.goals()
 <hr/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Awimya-Rn&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Awimya-Rn&theme=nightowl&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Awimya-Rn&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Awimya-Rn&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Awimya-Rn&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Awimya-Rn&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Awimya-Rn&utm_content=line">
   <img
