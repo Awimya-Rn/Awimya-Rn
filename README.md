@@ -47,6 +47,7 @@ Hm.goals()
 <hr/>
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=Awimya-Rn&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Awimya-Rn&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Awimya-Rn&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 
