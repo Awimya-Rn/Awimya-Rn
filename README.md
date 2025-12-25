@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi+Broo!+👋;+I'm+Mokhammad+Ilham!;" />
 </h1>
 <p align = "center">
-    <img src="https://github.com/user-attachments/assets/606fc39c-46a4-49e7-a482-3d95198cc6a3"/>
+    <img src="https://media1.tenor.com/m/kCghNjrLrAQAAAAC/bocchi-the-rock-chainsawman.gif" height=300/>
 </p>
 
 <br/>
