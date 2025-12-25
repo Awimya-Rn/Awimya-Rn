@@ -15,15 +15,11 @@ Aspiring Software Developer with a passion for creating innovative solutions. Ea
 
 # ⚒️ Languages-Frameworks-Tools
 
-<div>
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,git,bootstrap" width = 250 />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,vscode,git,bootstrap,php&perline=6)](https://skillicons.dev)
 
 ### Progrest
 
-<div>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,cpp,java,nextjs,mysql,github,astro,postman" width = 250 />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,python,javascript,cpp,java,nextjs,mysql,github,astro,postman,express,postgres,arch,godot,unity,tensorflow&perline=6)](https://skillicons.dev)
 
 <hr/>
 
