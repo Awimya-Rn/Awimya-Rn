@@ -19,7 +19,7 @@ Aspiring Software Developer with a passion for creating innovative solutions. Ea
 
 ### Progrest
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,python,javascript,cpp,java,nextjs,mysql,github,astro,postman,express,postgres,arch,godot,unity,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,python,javascript,cpp,java,nextjs,mysql,github,astro,postman,express,postgres,arch,godot,unity,tensorflow,scikitlearn)](https://skillicons.dev)
 
 <hr/>
 
