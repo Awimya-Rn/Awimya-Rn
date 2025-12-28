@@ -1,15 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Jersey+10&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi+Broo!+👋;+I'm+Mokhammad+Ilham!;" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=50&duration=4000&pause=1000&center=true&vCenter=true&width=900&height=70&lines=Hi+Broo!%F0%9F%91%8B+;I'm+Mokhammad+Ilham!+;Machine+Learning+%26+AI+Enthusiast" alt="Typing SVG" />
   
+  <br/>
   <br/>
   
   <img src="https://media1.tenor.com/m/nhNah85Iqx0AAAAC/chitanda-eru-hyouka.gif" height="250" style="border-radius: 15px;"/>
 
-  <br/><br/>
+  <br/>
 
   <img src="https://komarev.com/ghpvc/?username=Awimya-Rn&style=flat-square&color=blue" alt="Visitor Counter"/>
 
-  <br/><br/>
+  <br/>
 
   <h3>👨‍💻 About Me</h3>
   <p width="600">
