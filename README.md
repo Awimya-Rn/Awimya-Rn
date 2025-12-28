@@ -1,78 +1,72 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Jersey+10&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi+Broo!+👋;+I'm+Mokhammad+Ilham!;" />
-</h1>
-<p align = "center">
-    <img src="https://media1.tenor.com/m/nhNah85Iqx0AAAAC/chitanda-eru-hyouka.gif" height=300/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Jersey+10&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi+Broo!+👋;+I'm+Mokhammad+Ilham!;" alt="Typing SVG" />
+  
+  <br/>
+  
+  <img src="https://media1.tenor.com/m/nhNah85Iqx0AAAAC/chitanda-eru-hyouka.gif" height="250" style="border-radius: 15px;"/>
 
-<br/>
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=Awimya-Rn&style=flat-square&color=blue" alt="Visitor Counter"/>
+
+  <br/><br/>
+
+  <h3>👨‍💻 About Me</h3>
+  <p width="600">
+    Aspiring Software Developer with a passion for creating innovative solutions. <br/>
+    Eager to apply my skills in a challenging and dynamic environment. <br/>
+    Currently honing my abilities through personal projects and online courses.
+  </p>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=Awimya-Rn&style=flat-square&color=blue" alt=""/>
-</div>
-Aspiring Software Developer with a passion for creating innovative solutions. Eager to apply my skills in a challenging and dynamic environment. Currently honing my abilities through personal projects and online courses.
 
 <hr/>
 
-# ⚒️ Languages-Frameworks-Tools
+<h2 align="center">🛠️ Languages & Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,vscode,git,bootstrap,php)](https://skillicons.dev)
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,git,bootstrap,php" alt="Main Skills" />
+  
+  <br/><br/>
+  
+  <b>🚀 Currently Exploring / Learning</b>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,cpp,java,nextjs,mysql,github,astro,postman,express,postgres,arch,godot,unity,tensorflow,scikitlearn&perline=10" alt="Learning Skills" />
 
-### Progrest
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,python,javascript,cpp,java,nextjs,mysql,github,astro,postman,express,postgres,arch,godot,unity,tensorflow,scikitlearn)](https://skillicons.dev)
+</div>
 
 <hr/>
 
-# Interests and Goals 🎯
-```js
-class Interests{
-    constructor(name){
-        this.name=name
+<h2 align="center">🎯 Interests and Goals</h2>
+
+```javascript
+class Interests {
+    constructor(name) {
+        this.name = name;
     }
-    goals = () => {
-        console.log(`My ${this.name} Goals`)
-        console.log("- To build a strong foundation in computer science fundamentals.")
-        console.log("- To learn new programming languages and technologies.")
-        console.log("- To build a career in data science and machine learning.")
+    
+    displayGoals = () => {
+        console.log(`My ${this.name} Goals:`);
+        console.log("🔹 To build a strong foundation in CS fundamentals.");
+        console.log("🔹 To learn new programming languages & technologies.");
+        console.log("🔹 To build a career in Data Science & Machine Learning.");
     }
 }
-const Hm = new Interests("Hm")
-Hm.goals()
-```
 
+const me = new Interests("Career");
+me.displayGoals();
+```
 <hr/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats-eight-theta.vercel.app/api?username=Awimya-Rn&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Awimya-Rn&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Awimya-Rn&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-activity-graph.vercel.app/graph?username=Awimya-Rn&theme=nightowl&area=true&hide_border=true)<br/>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Awimya-Rn&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/Mokhamm-Ilham?pet-id=736823460251891632"
-    width="600"
-    height="120"
-  />
-</a>
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Awimya-Rn&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**Mokhamm-Ilham/Mokhamm-Ilham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"> 
+    <p> <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Awimya-Rn&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true" height="180" alt="Stats" /> 
+        <img src="https://nirzak-streak-stats.vercel.app/?user=Awimya-Rn&theme=nightowl&hide_border=false" height="180" alt="Streak" /> 
+    </p>
+    <p> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Awimya-Rn&theme=nightowl&layout=compact&langs_count=8"  alt="Top Langs" /> </p>
+    <p> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awimya-Rn&theme=nightowl&area=true&hide_border=true" width="100%" alt="Activity Graph" /> </p> 
+</div>
+<div align="center"> 
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Awimya-Rn&utm_content=line"> <img src="https://render.gitanimals.org/lines/Mokhamm-Ilham?pet-id=736823460251891632" width="600" height="120" alt="GitAnimals"/> </a>
+</div>
