@@ -1,6 +1,8 @@
 <div align="center">
   <a href="https://github.com/Awimya-Rn">
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmhiN3dkYTFrc252OG9vNWQ0bHdzbzRqMWV5OGo5dHdkaG9zZXFobyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mChiNhFgpudAQ3ppsL/giphy.gif" width="100%" height="340px" alt="Ghibli Landscape Header" style="border-radius: 15px;"> 
+    <picture>
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmhiN3dkYTFrc252OG9vNWQ0bHdzbzRqMWV5OGo5dHdkaG9zZXFobyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mChiNhFgpudAQ3ppsL/giphy.gif" width="100%" height="340px" alt="Ghibli Landscape Header" style="border-radius: 15px;"/> 
+    </picture>
   </a>
 </div>
 <br/>
@@ -36,7 +38,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/0O7kPpdBghEAAAAC/%E0%B8%9D%E0%B8%99.gif" width="100%" height="340px" alt="Ghibli Landscape Header" style="border-radius: 15px;">
+  <picture>
+    <img src="https://media1.tenor.com/m/0O7kPpdBghEAAAAC/%E0%B8%9D%E0%B8%99.gif" width="100%" height="340px" alt="Ghibli Landscape Header" style="border-radius: 15px;"/>
+  <picture/>
 </div>
 
 <hr/>
@@ -65,13 +69,16 @@ me.displayGoals();
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center"> 
-    <p> <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Awimya-Rn&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true" height="180" alt="Stats" /> 
-        <img src="https://nirzak-streak-stats.vercel.app/?user=Awimya-Rn&theme=nightowl&hide_border=false" height="180" alt="Streak" /> 
+    <p> 
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Awimya-Rn&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true" height="180" alt="Stats" /> 
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Awimya-Rn&theme=nightowl&hide_border=false" height="180" alt="Streak" /> 
     </p>
     <p> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Awimya-Rn&theme=nightowl&layout=compact&langs_count=8"  alt="Top Langs" /> </p>
     <p> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awimya-Rn&theme=nightowl&area=true&hide_border=true" width="100%" alt="Activity Graph" /> </p> 
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnVvYnQzZ3pmMG44anUwb2p2ZTRyOXI5bTl6Mms2MGhkd3QwNDU5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qx9PT3PqjXgJj6uFs2/giphy.gif" width="100%" height="340px" alt="Ghibli Landscape Header" style="border-radius: 15px;">
+  <picture>
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnVvYnQzZ3pmMG44anUwb2p2ZTRyOXI5bTl6Mms2MGhkd3QwNDU5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qx9PT3PqjXgJj6uFs2/giphy.gif" width="100%" height="340px" alt="Ghibli Landscape Header" style="border-radius: 15px;"/>
+  <picture/>
 </div>
