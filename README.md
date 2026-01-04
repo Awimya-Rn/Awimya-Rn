@@ -19,9 +19,7 @@
 <div align="center"> 
   <h3>👨‍💻 About Me</h3>
   <p width="600">
-    Aspiring Software Developer with a passion for creating innovative solutions. <br/>
-    Eager to apply my skills in a challenging and dynamic environment. <br/>
-    Currently honing my abilities through personal projects and online courses.
+    Having a deep interest in the world of technology makes me an aspiring Software Developer who is always oriented towards innovation and problem solving. I am looking for a golden opportunity to channel my energy and skills in a company that offers challenges and a supportive environment. To prepare for the transition to the professional world, I am currently dedicating my time to strengthening my technical foundation through rigorous self-learning, completing personal application projects, and completing online course curriculums to ensure my skills are aligned with current market needs.
   </p>
 </div>
 
