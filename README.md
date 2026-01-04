@@ -7,10 +7,10 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=50&duration=4000&pause=1000&center=true&vCenter=true&width=900&height=70&lines=Hi+Broo!%F0%9F%91%8B+;I'm+Mokhammad+Ilham!+;Machine+Learning+%26+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=50&duration=4000&pause=1000&center=true&vCenter=true&width=1000&height=90&lines=Hi+Broo!%F0%9F%91%8B+;I'm+Mokhammad+Ilham!+;Machine+Learning+%26+AI+Enthusiast" alt="Typing SVG" />
   
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Awimya-Rn&style=flat-square&color=blue" alt="Visitor Counter"/>
+  <img src="https://count.getloli.com/@:Awimya-Rn?theme=miku&padding=1&scale=1&align=center&pixelated=0&darkmode=auto" width="300" />
   <br/>
 </div>
 
@@ -123,4 +123,8 @@ me.displayGoals();
   <picture>
     <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnVvYnQzZ3pmMG44anUwb2p2ZTRyOXI5bTl6Mms2MGhkd3QwNDU5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qx9PT3PqjXgJj6uFs2/giphy.gif" width="100%" height="340px" alt="Ghibli Landscape Header" style="border-radius: 15px;"/>
   <picture/>
+</div>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=614cbf" width="100%" />
 </div>
