@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/Awimya-Rn">
     <picture>
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmhiN3dkYTFrc252OG9vNWQ0bHdzbzRqMWV5OGo5dHdkaG9zZXFobyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mChiNhFgpudAQ3ppsL/giphy.gif" width="100%" height="340px" alt="Ghibli Landscape Header" style="border-radius: 15px;"/> 
+      <img src="https://media1.tenor.com/m/6HCxs1YWOY4AAAAd/osaka-lofi-banner.gif" width="100%" height="340px" alt="Ghibli Landscape Header" style="border-radius: 15px;"/> 
     </picture>
   </a>
 </div>
@@ -10,14 +10,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=50&duration=4000&pause=1000&center=true&vCenter=true&width=1000&height=90&lines=Hi+Broo!%F0%9F%91%8B+;I'm+Mokhammad+Ilham!+;Machine+Learning+%26+AI+Enthusiast" alt="Typing SVG" />
   
   <br/>
-  <img src="https://count.getloli.com/@:Awimya-Rn?theme=miku&padding=1&scale=1&align=center&pixelated=0&darkmode=auto" width="300" />
-  <br/>
 </div>
 
 <hr/>
 
-<div align="center"> 
-  <h3>👨‍💻 About Me</h3>
+<div> 
+  <h2>👨‍💻 About Me</h2>
   <p>
     Having a deep interest in the world of technology makes me an aspiring Software Developer who is always oriented towards innovation and problem solving. I am looking for a golden opportunity to channel my energy and skills in a company that offers challenges and a supportive environment. To prepare for the transition to the professional world, I am currently dedicating my time to strengthening my technical foundation through rigorous self-learning, completing personal application projects, and completing online course curriculums to ensure my skills are aligned with current market needs.
   </p>
@@ -25,7 +23,7 @@
 
 <hr/>
 
-<div align="center">
+<div>
   <h2>🛠️ Languages & Tools</h2>
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -79,13 +77,13 @@
 
 <div align="center">
   <picture>
-    <img src="https://media1.tenor.com/m/0O7kPpdBghEAAAAC/%E0%B8%9D%E0%B8%99.gif" width="100%" height="340px" alt="Ghibli Landscape Header" style="border-radius: 15px;"/>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHh2czc0djYybTlkdWFkODdtdjlrMjVmOWJzZTVqNWZiZnFsNTVyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="100%" height="340px" alt="Ghibli Landscape Header" style="border-radius: 15px;"/>
   <picture/>
 </div>
 
 <hr/>
 
-<h2 align="center">🎯 Interests and Goals</h2>
+<h2>🎯 Interests and Goals</h2>
 
 ```javascript
 class Interests {
@@ -106,7 +104,7 @@ me.displayGoals();
 ```
 <hr/>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2>📊 GitHub Stats</h2>
 
 <div align="center"> 
     <p> 
@@ -117,9 +115,33 @@ me.displayGoals();
     <p> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awimya-Rn&theme=nightowl&area=true&hide_border=true" width="100%" alt="Activity Graph" /> </p> 
 </div>
 
+<hr/>
+
+<h2>🌐 Connect With Me</h2>
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mokhamm20@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamm-ez/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamm._ez)
+
+</div>
+
+
+<div align="center">
+  <img src="https://count.getloli.com/@:Awimya-Rn?theme=miku&padding=1&scale=1&align=center&pixelated=0&darkmode=auto" width="300" />
+</div>
+
+<div align="center">
+  <h3>💡 "التخلّي, التحلّي, التجلّي"</h3>
+  <p><em>A person cannot immediately reach the peak of the spiritual process</em></p>
+  <p><em>without going through the process of cleansing and filling oneself first. 🚀</em></p>
+</div>
+
+
 <div align="center">
   <picture>
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnVvYnQzZ3pmMG44anUwb2p2ZTRyOXI5bTl6Mms2MGhkd3QwNDU5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qx9PT3PqjXgJj6uFs2/giphy.gif" width="100%" height="340px" alt="Ghibli Landscape Header" style="border-radius: 15px;"/>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDR1NzhvYThzMTE3OTV3Y2ZvNHo5a2Vhd2xodmxvYzQxbTBjenRnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="100%" height="340px" alt="Ghibli Landscape Header" style="border-radius: 15px;"/>
   <picture/>
 </div>
 
