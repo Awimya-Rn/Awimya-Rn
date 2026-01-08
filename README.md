@@ -133,9 +133,7 @@ me.displayGoals();
 </div>
 
 <div align="center">
-  <h3>💡 "التخلّي, التحلّي, التجلّي"</h3>
-  <p><em>A person cannot immediately reach the peak of the spiritual process</em></p>
-  <p><em>without going through the process of cleansing and filling oneself first. 🚀</em></p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
 
 
