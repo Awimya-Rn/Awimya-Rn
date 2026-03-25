@@ -1,11 +1,11 @@
 <div align="center">
   <a href="https://github.com/Awimya-Rn">
     <picture>
-      <img src="https://media1.tenor.com/m/6HCxs1YWOY4AAAAd/osaka-lofi-banner.gif" width="100%" height="340px" alt="Ghibli Landscape Header" style="border-radius: 15px;"/> 
+      <img src="https://media1.tenor.com/m/uQvfec13ky0AAAAC/nier-nier-automata.gif" width="60%" alt="Ghibli Landscape Header" style="border-radius: 15px;"/> 
     </picture>
   </a>
 </div>
-<br/>
+<br/> 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=50&duration=4000&pause=1000&center=true&vCenter=true&width=1000&height=90&lines=Hi+Broo!%F0%9F%91%8B+;I'm+Mokhammad+Ilham!+;Machine+Learning+%26+AI+Enthusiast" alt="Typing SVG" />
   
@@ -77,7 +77,7 @@
 
 <div align="center">
   <picture>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHh2czc0djYybTlkdWFkODdtdjlrMjVmOWJzZTVqNWZiZnFsNTVyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="100%" height="340px" alt="Ghibli Landscape Header" style="border-radius: 15px;"/>
+    <img src="https://media1.tenor.com/m/HnI-ZLeJiMEAAAAd/a2-baller.gif" width="70%" alt="Ghibli Landscape Header" style="border-radius: 15px;"/>
   <picture/>
 </div>
 
@@ -139,7 +139,7 @@ me.displayGoals();
 
 <div align="center">
   <picture>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDR1NzhvYThzMTE3OTV3Y2ZvNHo5a2Vhd2xodmxvYzQxbTBjenRnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="100%" height="340px" alt="Ghibli Landscape Header" style="border-radius: 15px;"/>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHd5N2ptcm9hdXVvcnFtOWg5anJienVvNDNvMGszNnJtMXVvcXc1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PT0s5eOpFryXcGRjnk/giphy.gif" width="70%" alt="Ghibli Landscape Header" style="border-radius: 15px;"/>
   <picture/>
 </div>
 
