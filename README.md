@@ -108,11 +108,13 @@ me.displayGoals();
 
 <div align="center"> 
     <p> 
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Awimya-Rn&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true" height="150" alt="Stats" /> 
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Awimya-Rn&theme=nightowl&hide_border=false" height="150" alt="Streak" /> 
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Awimya-Rn&theme=dark&show_icons=true&include_all_commits=true&count_private=true" height="150" alt="Stats" /> 
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Awimya-Rn&theme=dark&hide_border=false" height="150" alt="Streak" /> 
     </p>
-    <p> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Awimya-Rn&theme=nightowl&layout=compact"  alt="Top Langs" /> </p>
-    <p> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awimya-Rn&theme=nightowl&area=true&hide_border=true" width="100%" alt="Activity Graph" /> </p> 
+    <p> 
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Awimya-Rn&theme=dark&layout=compact"  alt="Top Langs" /> 
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Awimya-Rn&repo=github-readme-stats&cache_seconds=86400&theme=dark" alt="Activity Graph" />
+    </p> 
 </div>
 
 <hr/>
@@ -144,5 +146,5 @@ me.displayGoals();
 </div>
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=614cbf" width="100%" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=ffffff" width="100%" />
 </div>
