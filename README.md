@@ -24,7 +24,7 @@
 <hr/>
 
 <div>
-  <h2>🛠️ Languages & Tools</h2>
+  <h2>🛠️ Tech Stack</h2>
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -46,8 +46,8 @@
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
-  <br/>  
-  <h2>🚀 Currently Exploring / Learning</h2>
+  <!-- <br/>  
+  <h2>🚀 Currently Exploring / Learning</h2> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
