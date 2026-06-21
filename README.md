@@ -107,14 +107,12 @@ me.displayGoals();
 <h2>📊 GitHub Stats</h2>
 
 <div align="center"> 
-    <p> 
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Awimya-Rn&theme=dark&show_icons=true&include_all_commits=true&count_private=true" height="150" alt="Stats" /> 
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Awimya-Rn&theme=dark&hide_border=false" height="150" alt="Streak" /> 
-    </p>
-    <p> 
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Awimya-Rn&theme=dark&layout=compact"  alt="Top Langs" /> 
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Awimya-Rn&repo=github-readme-stats&cache_seconds=86400&theme=dark" alt="Activity Graph" />
-    </p> 
+ 
+![](https://github-readme-stats.vercel.app/api?username=Awimya-Rn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+![](https://github-readme-streak-stats.herokuapp.com?user=Awimya-Rn&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Awimya-Rn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Awimya-Rn&theme=tokyonight) 
 </div>
 
 <hr/>
