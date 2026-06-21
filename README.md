@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/Awimya-Rn">
     <picture>
-      <img src="https://media1.tenor.com/m/uQvfec13ky0AAAAC/nier-nier-automata.gif" width="60%" alt="Ghibli Landscape Header" style="border-radius: 15px;"/> 
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb204d2JrNWF6eHY0MzFxdHllY2Y1cHV3dWM0a3J1MzN2b2Q1NWdiOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zJIyL1qrPQRkA/giphy.gif" width="70%" alt="Ghibli Landscape Header" style="border-radius: 15px;"/> 
     </picture>
   </a>
 </div>
@@ -89,7 +89,7 @@
 
 <div align="center">
   <picture>
-    <img src="https://media1.tenor.com/m/HnI-ZLeJiMEAAAAd/a2-baller.gif" width="70%" alt="Ghibli Landscape Header" style="border-radius: 15px;"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWY0cWFvdWxwOXEzMnRxc3U1cmxpeXg0Nng5Ym1nMXhvczg4d3YwMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/5nnUIT3BUMEHEtWOhf/giphy.gif" width="70%" alt="Ghibli Landscape Header" style="border-radius: 15px;"/>
   <picture/>
 </div>
 
@@ -151,7 +151,7 @@ me.displayGoals();
 
 <div align="center">
   <picture>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHd5N2ptcm9hdXVvcnFtOWg5anJienVvNDNvMGszNnJtMXVvcXc1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PT0s5eOpFryXcGRjnk/giphy.gif" width="70%" alt="Ghibli Landscape Header" style="border-radius: 15px;"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGs5d2ZoMml4eGJ5MGV0MjlzM3l6bjI5YXRva2k5ajRyenZvcXlwZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/z6TMaaNJKIAX6/giphy.gif" style="border-radius: 15px;"/>
   <picture/>
 </div>
 
