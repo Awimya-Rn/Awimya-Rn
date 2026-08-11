@@ -87,11 +87,11 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <picture>
     <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWY0cWFvdWxwOXEzMnRxc3U1cmxpeXg0Nng5Ym1nMXhvczg4d3YwMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/5nnUIT3BUMEHEtWOhf/giphy.gif" width="70%" alt="Ghibli Landscape Header" style="border-radius: 15px;"/>
   <picture/>
-</div>
+</div> -->
 
 <hr/>
 
@@ -151,7 +151,7 @@ me.displayGoals();
 
 <div align="center">
   <picture>
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGs5d2ZoMml4eGJ5MGV0MjlzM3l6bjI5YXRva2k5ajRyenZvcXlwZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/z6TMaaNJKIAX6/giphy.gif" style="border-radius: 15px;"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWY0cWFvdWxwOXEzMnRxc3U1cmxpeXg0Nng5Ym1nMXhvczg4d3YwMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/5nnUIT3BUMEHEtWOhf/giphy.gif" style="border-radius: 15px;"/>
   <picture/>
 </div>
 
