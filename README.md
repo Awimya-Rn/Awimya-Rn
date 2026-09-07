@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/Awimya-Rn">
     <picture>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb204d2JrNWF6eHY0MzFxdHllY2Y1cHV3dWM0a3J1MzN2b2Q1NWdiOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zJIyL1qrPQRkA/giphy.gif" width="70%" alt="Ghibli Landscape Header" style="border-radius: 15px;"/> 
+      <img src="https://i.kym-cdn.com/photos/images/newsfeed/000/801/745/825.gif" width="70%" alt="Ghibli Landscape Header" style="border-radius: 15px;"/> 
     </picture>
   </a>
 </div>
