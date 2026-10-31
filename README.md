@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/Awimya-Rn">
     <picture>
-      <img src="https://i.kym-cdn.com/photos/images/newsfeed/000/801/745/825.gif" width="70%" alt="Ghibli Landscape Header" style="border-radius: 15px;"/> 
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BsNmx4d3A4bnFhZ3d4cTFhc2ppMjVjdzVqdnlwejI2em56ZXBseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jShXX4P8sQIn7fF3UO/giphy.gif" width="60%" alt="Ghibli Landscape Header" style="border-radius: 15px;"/> 
     </picture>
   </a>
 </div>
@@ -87,15 +87,9 @@
 
 <br/>
 
-<!-- <div align="center">
-  <picture>
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWY0cWFvdWxwOXEzMnRxc3U1cmxpeXg0Nng5Ym1nMXhvczg4d3YwMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/5nnUIT3BUMEHEtWOhf/giphy.gif" width="70%" alt="Ghibli Landscape Header" style="border-radius: 15px;"/>
-  <picture/>
-</div> -->
-
 <hr/>
 
-<h2>🎯 Interests and Goals</h2>
+<!-- <h2>🎯 Interests and Goals</h2>
 
 ```javascript
 class Interests {
@@ -114,7 +108,7 @@ class Interests {
 const me = new Interests("Career");
 me.displayGoals();
 ```
-<hr/>
+<hr/> -->
 
 <h2>📊 GitHub Stats</h2>
 
@@ -146,13 +140,6 @@ me.displayGoals();
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</div>
-
-
-<div align="center">
-  <picture>
-    <img src="https://i.pinimg.com/originals/ab/81/f9/ab81f96a0047d0032d74beb78afe78fc.gif" style="border-radius: 15px;"/>
-  <picture/>
 </div>
 
 <div>
